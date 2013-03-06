@@ -42,7 +42,7 @@ global fontSize textColor textColor2
 global ScanOrDrill
 global sg drillNumber direction currentDepthCT startP endP ERPon
 global gazeData
-rows = 300000;
+rows = 300002;
 gazeData = GazeData(rows); 
 
 Screen('CloseAll')
