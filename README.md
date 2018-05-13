@@ -1,4 +1,4 @@
-Gaze3D Matlab: Matlab classes for 3D gaze rendering
+Gaze3D Matlab: Tracking 3D Gaze in Radiology
 ======================
 Matlab application developed for the [Gaze3D](http://olwal.com/#tracking_gaze_in_radiology) research projects, a collaboration between Brigham & Women's Hospital, Harvard Medical School, and MIT Media Lab. 
 
