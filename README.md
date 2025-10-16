@@ -4,8 +4,8 @@ Matlab application developed for the [Gaze3D](http://olwal.com/#tracking_gaze_in
 
 We collect gaze data from radiologists that search 3D CT scans for lung nodules. Analysis and interactive 3D visualisations of eye tracking data indicate 2 dominant search strategies, where "Drilling" is superior over "Scanning".
 
-[![Scanners & Drillers: Characterizing Expert Visual Search through Volumetric Images](https://i.vimeocdn.com/video/445594985_260x146.jpg)](https://vimeo.com/71881341)
-[![Scanners & Drillers: Characterizing Expert Visual Search through Volumetric Images](https://i.vimeocdn.com/video/445595038_260x146.jpg)](https://vimeo.com/71881340)
+[![Scanners & Drillers: Characterizing Expert Visual Search through Volumetric Images](https://i.vimeocdn.com/video/71881341_640.jpg)](https://vimeo.com/71881341)
+[![Scanners & Drillers: Characterizing Expert Visual Search through Volumetric Images](https://i.vimeocdn.com/video/71881340_640.jpg)](https://vimeo.com/71881340)
 
 Research Papers
 -------------------
